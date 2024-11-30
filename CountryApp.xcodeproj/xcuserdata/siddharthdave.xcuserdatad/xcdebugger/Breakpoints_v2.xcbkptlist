@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "89885A15-A044-461F-B5AF-ADA154F72E14"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B07249E7-3B4E-4A90-8C87-E5F89501EBAE"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CountryApp/Models/ApiHelper.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "CountrysInfo(completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "68D2E194-28C6-4A93-9DBF-CCB489C6B538"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CountryApp/Models/ApiHelper.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "CountrysInfo(completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4B464B58-3116-4256-B326-99F026F531BD"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CountryApp/Models/ApiHelper.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "CountrysInfo(completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7DBB3520-1183-4224-9DF5-E7ED0848BD92"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CountryApp/Models/ApiHelper.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "CountrysInfo(completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "7DBB3520-1183-4224-9DF5-E7ED0848BD92 - 7d142729aa54ae69"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CountryApp.ApiHelper.CountrysInfo(completion: (Swift.Array&lt;CountryApp.CountryName&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "CountryApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/siddharthdave/Documents/Tutorials/CountryApp/CountryApp/Models/ApiHelper.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "224">
+               </Location>
+               <Location
+                  uuid = "7DBB3520-1183-4224-9DF5-E7ED0848BD92 - 7d142729aa54ae69"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CountryApp.ApiHelper.CountrysInfo(completion: (Swift.Array&lt;CountryApp.CountryName&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "CountryApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/siddharthdave/Documents/Tutorials/CountryApp/CountryApp/Models/ApiHelper.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "340">
+               </Location>
+               <Location
+                  uuid = "7DBB3520-1183-4224-9DF5-E7ED0848BD92 - 7d142729aa54ae69"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CountryApp.ApiHelper.CountrysInfo(completion: (Swift.Array&lt;CountryApp.CountryName&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "CountryApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/siddharthdave/Documents/Tutorials/CountryApp/CountryApp/Models/ApiHelper.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "872">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
